@@ -1,0 +1,3 @@
+/home/anastasiia/CLionProjects/untitled24/cmake-build-debug/CMakeFiles/untitled24.dir
+/home/anastasiia/CLionProjects/untitled24/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anastasiia/CLionProjects/untitled24/cmake-build-debug/CMakeFiles/rebuild_cache.dir
